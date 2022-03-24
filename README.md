@@ -1,2 +1,2 @@
-# cis-340
-cis-340 coursework
+# csd-340
+csd-340 coursework
